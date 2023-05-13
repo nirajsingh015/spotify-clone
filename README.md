@@ -1,4 +1,4 @@
-Spotify Clone
+
 Spotify Clone is a simple project built using HTML, CSS, and JavaScript. The project aims to mimic the Spotify web player UI and functionalities. It provides a basic understanding of how to design and build a responsive web application using HTML, CSS, and JavaScript.
 
 Installation
